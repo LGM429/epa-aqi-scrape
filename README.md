@@ -1,1 +1,2 @@
-# epa-aqi-scrape
+# epa-aqi-scrape 
+Used EPA's api to access the data, building out the API call step by step to access air quality data specifically on trichloroethane (TCE), a toxic vapor and byproduct of manufacturing. Focused on Kings County, NY, which is the borough of Brooklyn. I wanted to learn about the ambient concentration of that vapor in the air, given it has been found in dangerous levels at certain Brooklyn properties in the past few years.
